@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d3a4629-41b1-4545-8820-f9a7d3c9dfae" name="ace-surgery.com" url="http://ace-surgery.com">
+        <fileTransfer host="ftp.ace-surgery.com" port="22" accessType="SFTP" password="dffddfcfdfc6dfc9dfc5dfc7dfcfdf9bdf98df99" username="drbalas">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

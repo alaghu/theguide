@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="ace-surgery.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/drbalas/www" local="$USER_HOME$/Documents/work/Surgery Center Website/ace-surgery.com" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
